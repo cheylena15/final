@@ -7,9 +7,14 @@ body{
     background-color:lightgray;
 }
 
-#nav a{
+#nav ul li a{
     color:red;
     text-decoration:none;
+    font-size:20px;
+    padding:20px;
+}
+
+#nav li{
     list-style-type:none;
     display:inline;
 }
